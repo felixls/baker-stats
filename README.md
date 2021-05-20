@@ -4,6 +4,8 @@ This device shows you how a particular baker is doing during one cycle (4096 blo
 
 It also connect the your baker and check if is on sync with Tezos blockchain.
 
+![](https://github.com/Felixls/baker-stats/blob/doc/photo.jpeg?raw=true)
+
 ### Hardware
 
 - Microcontroller ESP32-WROOM-32D
